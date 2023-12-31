@@ -1,0 +1,14 @@
+/home/ripeplantain/practice/c# tutuorials/Delegate/bin/Debug/net8.0/Delegate
+/home/ripeplantain/practice/c# tutuorials/Delegate/bin/Debug/net8.0/Delegate.deps.json
+/home/ripeplantain/practice/c# tutuorials/Delegate/bin/Debug/net8.0/Delegate.runtimeconfig.json
+/home/ripeplantain/practice/c# tutuorials/Delegate/bin/Debug/net8.0/Delegate.dll
+/home/ripeplantain/practice/c# tutuorials/Delegate/bin/Debug/net8.0/Delegate.pdb
+/home/ripeplantain/practice/c# tutuorials/Delegate/obj/Debug/net8.0/Delegate.GeneratedMSBuildEditorConfig.editorconfig
+/home/ripeplantain/practice/c# tutuorials/Delegate/obj/Debug/net8.0/Delegate.AssemblyInfoInputs.cache
+/home/ripeplantain/practice/c# tutuorials/Delegate/obj/Debug/net8.0/Delegate.AssemblyInfo.cs
+/home/ripeplantain/practice/c# tutuorials/Delegate/obj/Debug/net8.0/Delegate.csproj.CoreCompileInputs.cache
+/home/ripeplantain/practice/c# tutuorials/Delegate/obj/Debug/net8.0/Delegate.dll
+/home/ripeplantain/practice/c# tutuorials/Delegate/obj/Debug/net8.0/refint/Delegate.dll
+/home/ripeplantain/practice/c# tutuorials/Delegate/obj/Debug/net8.0/Delegate.pdb
+/home/ripeplantain/practice/c# tutuorials/Delegate/obj/Debug/net8.0/Delegate.genruntimeconfig.cache
+/home/ripeplantain/practice/c# tutuorials/Delegate/obj/Debug/net8.0/ref/Delegate.dll

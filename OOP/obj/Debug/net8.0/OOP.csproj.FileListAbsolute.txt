@@ -1,0 +1,14 @@
+/home/ripeplantain/practice/c# tutuorials/OOP/bin/Debug/net8.0/OOP
+/home/ripeplantain/practice/c# tutuorials/OOP/bin/Debug/net8.0/OOP.deps.json
+/home/ripeplantain/practice/c# tutuorials/OOP/bin/Debug/net8.0/OOP.runtimeconfig.json
+/home/ripeplantain/practice/c# tutuorials/OOP/bin/Debug/net8.0/OOP.dll
+/home/ripeplantain/practice/c# tutuorials/OOP/bin/Debug/net8.0/OOP.pdb
+/home/ripeplantain/practice/c# tutuorials/OOP/obj/Debug/net8.0/OOP.GeneratedMSBuildEditorConfig.editorconfig
+/home/ripeplantain/practice/c# tutuorials/OOP/obj/Debug/net8.0/OOP.AssemblyInfoInputs.cache
+/home/ripeplantain/practice/c# tutuorials/OOP/obj/Debug/net8.0/OOP.AssemblyInfo.cs
+/home/ripeplantain/practice/c# tutuorials/OOP/obj/Debug/net8.0/OOP.csproj.CoreCompileInputs.cache
+/home/ripeplantain/practice/c# tutuorials/OOP/obj/Debug/net8.0/OOP.dll
+/home/ripeplantain/practice/c# tutuorials/OOP/obj/Debug/net8.0/refint/OOP.dll
+/home/ripeplantain/practice/c# tutuorials/OOP/obj/Debug/net8.0/OOP.pdb
+/home/ripeplantain/practice/c# tutuorials/OOP/obj/Debug/net8.0/OOP.genruntimeconfig.cache
+/home/ripeplantain/practice/c# tutuorials/OOP/obj/Debug/net8.0/ref/OOP.dll

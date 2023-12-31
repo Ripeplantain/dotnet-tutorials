@@ -1,0 +1,14 @@
+/home/ripeplantain/practice/c# tutuorials/Exception/bin/Debug/net8.0/Exception
+/home/ripeplantain/practice/c# tutuorials/Exception/bin/Debug/net8.0/Exception.deps.json
+/home/ripeplantain/practice/c# tutuorials/Exception/bin/Debug/net8.0/Exception.runtimeconfig.json
+/home/ripeplantain/practice/c# tutuorials/Exception/bin/Debug/net8.0/Exception.dll
+/home/ripeplantain/practice/c# tutuorials/Exception/bin/Debug/net8.0/Exception.pdb
+/home/ripeplantain/practice/c# tutuorials/Exception/obj/Debug/net8.0/Exception.GeneratedMSBuildEditorConfig.editorconfig
+/home/ripeplantain/practice/c# tutuorials/Exception/obj/Debug/net8.0/Exception.AssemblyInfoInputs.cache
+/home/ripeplantain/practice/c# tutuorials/Exception/obj/Debug/net8.0/Exception.AssemblyInfo.cs
+/home/ripeplantain/practice/c# tutuorials/Exception/obj/Debug/net8.0/Exception.csproj.CoreCompileInputs.cache
+/home/ripeplantain/practice/c# tutuorials/Exception/obj/Debug/net8.0/Exception.dll
+/home/ripeplantain/practice/c# tutuorials/Exception/obj/Debug/net8.0/refint/Exception.dll
+/home/ripeplantain/practice/c# tutuorials/Exception/obj/Debug/net8.0/Exception.pdb
+/home/ripeplantain/practice/c# tutuorials/Exception/obj/Debug/net8.0/Exception.genruntimeconfig.cache
+/home/ripeplantain/practice/c# tutuorials/Exception/obj/Debug/net8.0/ref/Exception.dll

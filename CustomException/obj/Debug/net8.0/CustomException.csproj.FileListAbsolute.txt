@@ -1,0 +1,14 @@
+/home/ripeplantain/practice/c# tutuorials/CustomException/obj/Debug/net8.0/CustomException.GeneratedMSBuildEditorConfig.editorconfig
+/home/ripeplantain/practice/c# tutuorials/CustomException/obj/Debug/net8.0/CustomException.AssemblyInfoInputs.cache
+/home/ripeplantain/practice/c# tutuorials/CustomException/obj/Debug/net8.0/CustomException.AssemblyInfo.cs
+/home/ripeplantain/practice/c# tutuorials/CustomException/obj/Debug/net8.0/CustomException.csproj.CoreCompileInputs.cache
+/home/ripeplantain/practice/c# tutuorials/CustomException/bin/Debug/net8.0/CustomException
+/home/ripeplantain/practice/c# tutuorials/CustomException/bin/Debug/net8.0/CustomException.deps.json
+/home/ripeplantain/practice/c# tutuorials/CustomException/bin/Debug/net8.0/CustomException.runtimeconfig.json
+/home/ripeplantain/practice/c# tutuorials/CustomException/bin/Debug/net8.0/CustomException.dll
+/home/ripeplantain/practice/c# tutuorials/CustomException/bin/Debug/net8.0/CustomException.pdb
+/home/ripeplantain/practice/c# tutuorials/CustomException/obj/Debug/net8.0/CustomException.dll
+/home/ripeplantain/practice/c# tutuorials/CustomException/obj/Debug/net8.0/refint/CustomException.dll
+/home/ripeplantain/practice/c# tutuorials/CustomException/obj/Debug/net8.0/CustomException.pdb
+/home/ripeplantain/practice/c# tutuorials/CustomException/obj/Debug/net8.0/CustomException.genruntimeconfig.cache
+/home/ripeplantain/practice/c# tutuorials/CustomException/obj/Debug/net8.0/ref/CustomException.dll

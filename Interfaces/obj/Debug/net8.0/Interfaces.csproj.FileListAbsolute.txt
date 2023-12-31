@@ -1,0 +1,14 @@
+/home/ripeplantain/practice/c# tutuorials/Interfaces/bin/Debug/net8.0/Interfaces
+/home/ripeplantain/practice/c# tutuorials/Interfaces/bin/Debug/net8.0/Interfaces.deps.json
+/home/ripeplantain/practice/c# tutuorials/Interfaces/bin/Debug/net8.0/Interfaces.runtimeconfig.json
+/home/ripeplantain/practice/c# tutuorials/Interfaces/bin/Debug/net8.0/Interfaces.dll
+/home/ripeplantain/practice/c# tutuorials/Interfaces/bin/Debug/net8.0/Interfaces.pdb
+/home/ripeplantain/practice/c# tutuorials/Interfaces/obj/Debug/net8.0/Interfaces.GeneratedMSBuildEditorConfig.editorconfig
+/home/ripeplantain/practice/c# tutuorials/Interfaces/obj/Debug/net8.0/Interfaces.AssemblyInfoInputs.cache
+/home/ripeplantain/practice/c# tutuorials/Interfaces/obj/Debug/net8.0/Interfaces.AssemblyInfo.cs
+/home/ripeplantain/practice/c# tutuorials/Interfaces/obj/Debug/net8.0/Interfaces.csproj.CoreCompileInputs.cache
+/home/ripeplantain/practice/c# tutuorials/Interfaces/obj/Debug/net8.0/Interfaces.dll
+/home/ripeplantain/practice/c# tutuorials/Interfaces/obj/Debug/net8.0/refint/Interfaces.dll
+/home/ripeplantain/practice/c# tutuorials/Interfaces/obj/Debug/net8.0/Interfaces.pdb
+/home/ripeplantain/practice/c# tutuorials/Interfaces/obj/Debug/net8.0/Interfaces.genruntimeconfig.cache
+/home/ripeplantain/practice/c# tutuorials/Interfaces/obj/Debug/net8.0/ref/Interfaces.dll

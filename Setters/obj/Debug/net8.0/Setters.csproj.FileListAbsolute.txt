@@ -1,0 +1,14 @@
+/home/ripeplantain/practice/c# tutuorials/Setters/bin/Debug/net8.0/Setters
+/home/ripeplantain/practice/c# tutuorials/Setters/bin/Debug/net8.0/Setters.deps.json
+/home/ripeplantain/practice/c# tutuorials/Setters/bin/Debug/net8.0/Setters.runtimeconfig.json
+/home/ripeplantain/practice/c# tutuorials/Setters/bin/Debug/net8.0/Setters.dll
+/home/ripeplantain/practice/c# tutuorials/Setters/bin/Debug/net8.0/Setters.pdb
+/home/ripeplantain/practice/c# tutuorials/Setters/obj/Debug/net8.0/Setters.GeneratedMSBuildEditorConfig.editorconfig
+/home/ripeplantain/practice/c# tutuorials/Setters/obj/Debug/net8.0/Setters.AssemblyInfoInputs.cache
+/home/ripeplantain/practice/c# tutuorials/Setters/obj/Debug/net8.0/Setters.AssemblyInfo.cs
+/home/ripeplantain/practice/c# tutuorials/Setters/obj/Debug/net8.0/Setters.csproj.CoreCompileInputs.cache
+/home/ripeplantain/practice/c# tutuorials/Setters/obj/Debug/net8.0/Setters.dll
+/home/ripeplantain/practice/c# tutuorials/Setters/obj/Debug/net8.0/refint/Setters.dll
+/home/ripeplantain/practice/c# tutuorials/Setters/obj/Debug/net8.0/Setters.pdb
+/home/ripeplantain/practice/c# tutuorials/Setters/obj/Debug/net8.0/Setters.genruntimeconfig.cache
+/home/ripeplantain/practice/c# tutuorials/Setters/obj/Debug/net8.0/ref/Setters.dll

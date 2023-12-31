@@ -1,0 +1,14 @@
+/home/ripeplantain/practice/c# tutuorials/Attributes/bin/Debug/net8.0/Attributes
+/home/ripeplantain/practice/c# tutuorials/Attributes/bin/Debug/net8.0/Attributes.deps.json
+/home/ripeplantain/practice/c# tutuorials/Attributes/bin/Debug/net8.0/Attributes.runtimeconfig.json
+/home/ripeplantain/practice/c# tutuorials/Attributes/bin/Debug/net8.0/Attributes.dll
+/home/ripeplantain/practice/c# tutuorials/Attributes/bin/Debug/net8.0/Attributes.pdb
+/home/ripeplantain/practice/c# tutuorials/Attributes/obj/Debug/net8.0/Attributes.GeneratedMSBuildEditorConfig.editorconfig
+/home/ripeplantain/practice/c# tutuorials/Attributes/obj/Debug/net8.0/Attributes.AssemblyInfoInputs.cache
+/home/ripeplantain/practice/c# tutuorials/Attributes/obj/Debug/net8.0/Attributes.AssemblyInfo.cs
+/home/ripeplantain/practice/c# tutuorials/Attributes/obj/Debug/net8.0/Attributes.csproj.CoreCompileInputs.cache
+/home/ripeplantain/practice/c# tutuorials/Attributes/obj/Debug/net8.0/Attributes.dll
+/home/ripeplantain/practice/c# tutuorials/Attributes/obj/Debug/net8.0/refint/Attributes.dll
+/home/ripeplantain/practice/c# tutuorials/Attributes/obj/Debug/net8.0/Attributes.pdb
+/home/ripeplantain/practice/c# tutuorials/Attributes/obj/Debug/net8.0/Attributes.genruntimeconfig.cache
+/home/ripeplantain/practice/c# tutuorials/Attributes/obj/Debug/net8.0/ref/Attributes.dll

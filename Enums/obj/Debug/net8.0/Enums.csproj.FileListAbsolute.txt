@@ -1,0 +1,14 @@
+/home/ripeplantain/practice/c# tutuorials/Enums/obj/Debug/net8.0/Enums.GeneratedMSBuildEditorConfig.editorconfig
+/home/ripeplantain/practice/c# tutuorials/Enums/obj/Debug/net8.0/Enums.AssemblyInfoInputs.cache
+/home/ripeplantain/practice/c# tutuorials/Enums/obj/Debug/net8.0/Enums.AssemblyInfo.cs
+/home/ripeplantain/practice/c# tutuorials/Enums/obj/Debug/net8.0/Enums.csproj.CoreCompileInputs.cache
+/home/ripeplantain/practice/c# tutuorials/Enums/bin/Debug/net8.0/Enums
+/home/ripeplantain/practice/c# tutuorials/Enums/bin/Debug/net8.0/Enums.deps.json
+/home/ripeplantain/practice/c# tutuorials/Enums/bin/Debug/net8.0/Enums.runtimeconfig.json
+/home/ripeplantain/practice/c# tutuorials/Enums/bin/Debug/net8.0/Enums.dll
+/home/ripeplantain/practice/c# tutuorials/Enums/bin/Debug/net8.0/Enums.pdb
+/home/ripeplantain/practice/c# tutuorials/Enums/obj/Debug/net8.0/Enums.dll
+/home/ripeplantain/practice/c# tutuorials/Enums/obj/Debug/net8.0/refint/Enums.dll
+/home/ripeplantain/practice/c# tutuorials/Enums/obj/Debug/net8.0/Enums.pdb
+/home/ripeplantain/practice/c# tutuorials/Enums/obj/Debug/net8.0/Enums.genruntimeconfig.cache
+/home/ripeplantain/practice/c# tutuorials/Enums/obj/Debug/net8.0/ref/Enums.dll
