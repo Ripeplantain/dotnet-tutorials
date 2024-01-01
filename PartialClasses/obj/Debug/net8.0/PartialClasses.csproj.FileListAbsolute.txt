@@ -1,0 +1,15 @@
+/home/ripeplantain/practice/c# tutuorials/PartialClasses/obj/Debug/net8.0/PartialClasses.GeneratedMSBuildEditorConfig.editorconfig
+/home/ripeplantain/practice/c# tutuorials/PartialClasses/obj/Debug/net8.0/PartialClasses.AssemblyInfoInputs.cache
+/home/ripeplantain/practice/c# tutuorials/PartialClasses/obj/Debug/net8.0/PartialClasses.AssemblyInfo.cs
+/home/ripeplantain/practice/c# tutuorials/PartialClasses/obj/Debug/net8.0/PartialClasses.csproj.CoreCompileInputs.cache
+/home/ripeplantain/practice/c# tutuorials/PartialClasses/obj/Debug/net8.0/PartialClasses.sourcelink.json
+/home/ripeplantain/practice/c# tutuorials/PartialClasses/bin/Debug/net8.0/PartialClasses
+/home/ripeplantain/practice/c# tutuorials/PartialClasses/bin/Debug/net8.0/PartialClasses.deps.json
+/home/ripeplantain/practice/c# tutuorials/PartialClasses/bin/Debug/net8.0/PartialClasses.runtimeconfig.json
+/home/ripeplantain/practice/c# tutuorials/PartialClasses/bin/Debug/net8.0/PartialClasses.dll
+/home/ripeplantain/practice/c# tutuorials/PartialClasses/bin/Debug/net8.0/PartialClasses.pdb
+/home/ripeplantain/practice/c# tutuorials/PartialClasses/obj/Debug/net8.0/PartialClasses.dll
+/home/ripeplantain/practice/c# tutuorials/PartialClasses/obj/Debug/net8.0/refint/PartialClasses.dll
+/home/ripeplantain/practice/c# tutuorials/PartialClasses/obj/Debug/net8.0/PartialClasses.pdb
+/home/ripeplantain/practice/c# tutuorials/PartialClasses/obj/Debug/net8.0/PartialClasses.genruntimeconfig.cache
+/home/ripeplantain/practice/c# tutuorials/PartialClasses/obj/Debug/net8.0/ref/PartialClasses.dll
