@@ -1,0 +1,15 @@
+/home/ripeplantain/practice/c# tutuorials/Indexes/obj/Debug/net8.0/Indexes.GeneratedMSBuildEditorConfig.editorconfig
+/home/ripeplantain/practice/c# tutuorials/Indexes/obj/Debug/net8.0/Indexes.AssemblyInfoInputs.cache
+/home/ripeplantain/practice/c# tutuorials/Indexes/obj/Debug/net8.0/Indexes.AssemblyInfo.cs
+/home/ripeplantain/practice/c# tutuorials/Indexes/obj/Debug/net8.0/Indexes.csproj.CoreCompileInputs.cache
+/home/ripeplantain/practice/c# tutuorials/Indexes/obj/Debug/net8.0/Indexes.sourcelink.json
+/home/ripeplantain/practice/c# tutuorials/Indexes/bin/Debug/net8.0/Indexes
+/home/ripeplantain/practice/c# tutuorials/Indexes/bin/Debug/net8.0/Indexes.deps.json
+/home/ripeplantain/practice/c# tutuorials/Indexes/bin/Debug/net8.0/Indexes.runtimeconfig.json
+/home/ripeplantain/practice/c# tutuorials/Indexes/bin/Debug/net8.0/Indexes.dll
+/home/ripeplantain/practice/c# tutuorials/Indexes/bin/Debug/net8.0/Indexes.pdb
+/home/ripeplantain/practice/c# tutuorials/Indexes/obj/Debug/net8.0/Indexes.dll
+/home/ripeplantain/practice/c# tutuorials/Indexes/obj/Debug/net8.0/refint/Indexes.dll
+/home/ripeplantain/practice/c# tutuorials/Indexes/obj/Debug/net8.0/Indexes.pdb
+/home/ripeplantain/practice/c# tutuorials/Indexes/obj/Debug/net8.0/Indexes.genruntimeconfig.cache
+/home/ripeplantain/practice/c# tutuorials/Indexes/obj/Debug/net8.0/ref/Indexes.dll
