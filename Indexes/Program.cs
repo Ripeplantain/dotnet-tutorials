@@ -47,6 +47,20 @@ namespace Indexes
                 }
             }
         }
+
+        public string this[string name]
+        {
+            get
+            {
+                foreach (Employee employee in listEmployees)
+                {
+                    if (employee.Name == name)
+                    {
+                        return employee
+                    }
+                }
+            }
+        }
     }
 
     public class Program

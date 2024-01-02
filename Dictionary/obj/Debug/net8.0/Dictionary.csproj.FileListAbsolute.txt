@@ -1,0 +1,15 @@
+/home/ripeplantain/practice/c# tutuorials/Dictionary/obj/Debug/net8.0/Dictionary.GeneratedMSBuildEditorConfig.editorconfig
+/home/ripeplantain/practice/c# tutuorials/Dictionary/obj/Debug/net8.0/Dictionary.AssemblyInfoInputs.cache
+/home/ripeplantain/practice/c# tutuorials/Dictionary/obj/Debug/net8.0/Dictionary.AssemblyInfo.cs
+/home/ripeplantain/practice/c# tutuorials/Dictionary/obj/Debug/net8.0/Dictionary.csproj.CoreCompileInputs.cache
+/home/ripeplantain/practice/c# tutuorials/Dictionary/obj/Debug/net8.0/Dictionary.sourcelink.json
+/home/ripeplantain/practice/c# tutuorials/Dictionary/bin/Debug/net8.0/Dictionary
+/home/ripeplantain/practice/c# tutuorials/Dictionary/bin/Debug/net8.0/Dictionary.deps.json
+/home/ripeplantain/practice/c# tutuorials/Dictionary/bin/Debug/net8.0/Dictionary.runtimeconfig.json
+/home/ripeplantain/practice/c# tutuorials/Dictionary/bin/Debug/net8.0/Dictionary.dll
+/home/ripeplantain/practice/c# tutuorials/Dictionary/bin/Debug/net8.0/Dictionary.pdb
+/home/ripeplantain/practice/c# tutuorials/Dictionary/obj/Debug/net8.0/Dictionary.dll
+/home/ripeplantain/practice/c# tutuorials/Dictionary/obj/Debug/net8.0/refint/Dictionary.dll
+/home/ripeplantain/practice/c# tutuorials/Dictionary/obj/Debug/net8.0/Dictionary.pdb
+/home/ripeplantain/practice/c# tutuorials/Dictionary/obj/Debug/net8.0/Dictionary.genruntimeconfig.cache
+/home/ripeplantain/practice/c# tutuorials/Dictionary/obj/Debug/net8.0/ref/Dictionary.dll
