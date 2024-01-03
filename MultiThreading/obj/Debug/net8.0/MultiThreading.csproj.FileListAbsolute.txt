@@ -1,0 +1,15 @@
+/home/ripeplantain/practice/c# tutuorials/MultiThreading/obj/Debug/net8.0/MultiThreading.GeneratedMSBuildEditorConfig.editorconfig
+/home/ripeplantain/practice/c# tutuorials/MultiThreading/obj/Debug/net8.0/MultiThreading.AssemblyInfoInputs.cache
+/home/ripeplantain/practice/c# tutuorials/MultiThreading/obj/Debug/net8.0/MultiThreading.AssemblyInfo.cs
+/home/ripeplantain/practice/c# tutuorials/MultiThreading/obj/Debug/net8.0/MultiThreading.csproj.CoreCompileInputs.cache
+/home/ripeplantain/practice/c# tutuorials/MultiThreading/obj/Debug/net8.0/MultiThreading.sourcelink.json
+/home/ripeplantain/practice/c# tutuorials/MultiThreading/bin/Debug/net8.0/MultiThreading
+/home/ripeplantain/practice/c# tutuorials/MultiThreading/bin/Debug/net8.0/MultiThreading.deps.json
+/home/ripeplantain/practice/c# tutuorials/MultiThreading/bin/Debug/net8.0/MultiThreading.runtimeconfig.json
+/home/ripeplantain/practice/c# tutuorials/MultiThreading/bin/Debug/net8.0/MultiThreading.dll
+/home/ripeplantain/practice/c# tutuorials/MultiThreading/bin/Debug/net8.0/MultiThreading.pdb
+/home/ripeplantain/practice/c# tutuorials/MultiThreading/obj/Debug/net8.0/MultiThreading.dll
+/home/ripeplantain/practice/c# tutuorials/MultiThreading/obj/Debug/net8.0/refint/MultiThreading.dll
+/home/ripeplantain/practice/c# tutuorials/MultiThreading/obj/Debug/net8.0/MultiThreading.pdb
+/home/ripeplantain/practice/c# tutuorials/MultiThreading/obj/Debug/net8.0/MultiThreading.genruntimeconfig.cache
+/home/ripeplantain/practice/c# tutuorials/MultiThreading/obj/Debug/net8.0/ref/MultiThreading.dll
