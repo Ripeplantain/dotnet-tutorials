@@ -1,0 +1,15 @@
+/home/ripeplantain/practice/c# tutuorials/Queue/bin/Debug/net8.0/Queue
+/home/ripeplantain/practice/c# tutuorials/Queue/bin/Debug/net8.0/Queue.deps.json
+/home/ripeplantain/practice/c# tutuorials/Queue/bin/Debug/net8.0/Queue.runtimeconfig.json
+/home/ripeplantain/practice/c# tutuorials/Queue/bin/Debug/net8.0/Queue.dll
+/home/ripeplantain/practice/c# tutuorials/Queue/bin/Debug/net8.0/Queue.pdb
+/home/ripeplantain/practice/c# tutuorials/Queue/obj/Debug/net8.0/Queue.GeneratedMSBuildEditorConfig.editorconfig
+/home/ripeplantain/practice/c# tutuorials/Queue/obj/Debug/net8.0/Queue.AssemblyInfoInputs.cache
+/home/ripeplantain/practice/c# tutuorials/Queue/obj/Debug/net8.0/Queue.AssemblyInfo.cs
+/home/ripeplantain/practice/c# tutuorials/Queue/obj/Debug/net8.0/Queue.csproj.CoreCompileInputs.cache
+/home/ripeplantain/practice/c# tutuorials/Queue/obj/Debug/net8.0/Queue.sourcelink.json
+/home/ripeplantain/practice/c# tutuorials/Queue/obj/Debug/net8.0/Queue.dll
+/home/ripeplantain/practice/c# tutuorials/Queue/obj/Debug/net8.0/refint/Queue.dll
+/home/ripeplantain/practice/c# tutuorials/Queue/obj/Debug/net8.0/Queue.pdb
+/home/ripeplantain/practice/c# tutuorials/Queue/obj/Debug/net8.0/Queue.genruntimeconfig.cache
+/home/ripeplantain/practice/c# tutuorials/Queue/obj/Debug/net8.0/ref/Queue.dll
