@@ -1,0 +1,15 @@
+/home/ripeplantain/practice/c# tutuorials/Sorting/bin/Debug/net8.0/Sorting
+/home/ripeplantain/practice/c# tutuorials/Sorting/bin/Debug/net8.0/Sorting.deps.json
+/home/ripeplantain/practice/c# tutuorials/Sorting/bin/Debug/net8.0/Sorting.runtimeconfig.json
+/home/ripeplantain/practice/c# tutuorials/Sorting/bin/Debug/net8.0/Sorting.dll
+/home/ripeplantain/practice/c# tutuorials/Sorting/bin/Debug/net8.0/Sorting.pdb
+/home/ripeplantain/practice/c# tutuorials/Sorting/obj/Debug/net8.0/Sorting.GeneratedMSBuildEditorConfig.editorconfig
+/home/ripeplantain/practice/c# tutuorials/Sorting/obj/Debug/net8.0/Sorting.AssemblyInfoInputs.cache
+/home/ripeplantain/practice/c# tutuorials/Sorting/obj/Debug/net8.0/Sorting.AssemblyInfo.cs
+/home/ripeplantain/practice/c# tutuorials/Sorting/obj/Debug/net8.0/Sorting.csproj.CoreCompileInputs.cache
+/home/ripeplantain/practice/c# tutuorials/Sorting/obj/Debug/net8.0/Sorting.sourcelink.json
+/home/ripeplantain/practice/c# tutuorials/Sorting/obj/Debug/net8.0/Sorting.dll
+/home/ripeplantain/practice/c# tutuorials/Sorting/obj/Debug/net8.0/refint/Sorting.dll
+/home/ripeplantain/practice/c# tutuorials/Sorting/obj/Debug/net8.0/Sorting.pdb
+/home/ripeplantain/practice/c# tutuorials/Sorting/obj/Debug/net8.0/Sorting.genruntimeconfig.cache
+/home/ripeplantain/practice/c# tutuorials/Sorting/obj/Debug/net8.0/ref/Sorting.dll
